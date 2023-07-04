@@ -76,7 +76,7 @@ section.imagem > p {
 }
 section#img01 {
     background-image: url(../imagens/cordel01.jpg);
-    background-position: right center;   
+    background-position: center center;   
 }
 section#img02 {
     background-image: url(../imagens/cordel02.jpg);
